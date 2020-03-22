@@ -1,4 +1,9 @@
 {
+  "name": "es-sql",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node node-server.js"
+  },
   "dependencies": {
     "express": "^4.14.0"
   }
